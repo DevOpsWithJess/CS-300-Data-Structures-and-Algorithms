@@ -12,7 +12,7 @@ Primary Concepts
 * User interaction with Menu
 
 Personal Reflection
-I still consider myself new to computer science. This is not my first code by ive probably only written 10 working programs prior.
+* I still consider myself new to computer science. This is not my first code by ive probably only written 10 working programs prior.
 So far I have learned a litte Python, Java, SQL, C++, DevSecOps, Algorithms, Data Structures, Software Security, Software Development LifeCycles, and Agile Frameworks. 
 This project helped me to start combining all im learning. It increased my confidence working with C++, working with Visual Studio, and effecietl organizing data.
 
