@@ -1,7 +1,7 @@
 # C++ Data Structures and Algorithms - Course Planner
 
-Author: Jessica Johnson
-Language: C++
+## Author: Jessica Johnson
+## Language: C++
 
 ---
 
